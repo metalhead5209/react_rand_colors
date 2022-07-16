@@ -1,11 +1,11 @@
-
+import BoxContainer from './components/BoxContainer/BoxContainer';
 import './App.css'
 
 function App() {
 
   return (
     <div className="App">
-      <h1>Heller</h1>
+      <BoxContainer />
     </div>
   )
 }
